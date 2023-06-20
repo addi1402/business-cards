@@ -1,0 +1,8 @@
+.card-one{
+    height: 100%;
+    max-width: 35%;
+    background-color: #161B22;
+    color: white;
+    flex-grow: 1;
+    display: flex;
+}

@@ -1,0 +1,38 @@
+.main{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.name{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.profession{
+    color: #CEA5FB;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.mail{
+    font-size: 12px;
+    color: #595d66;
+    text-decoration: none;
+}
+
+.details{
+    padding: 20px;
+}
+
+.title{
+    font-weight: 600;
+    color:#CEA5FB;
+}
+
+.info{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 1.4;
+}

@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #161B22;
+    padding: 15px 10px;
+}
+
+.footer .social-handle{
+    width: 30px;
+}
