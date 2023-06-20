@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600&display=swap');
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -45,7 +47,7 @@ table {
 /* Manual Styling Rules */
 
 body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Nunito Sans','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	background-color: #0f131a;
 	box-sizing: border-box;
 }

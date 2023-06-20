@@ -6,5 +6,6 @@
 }
 
 .footer .social-handle{
-    width: 30px;
+    width: 18px;
+    cursor: pointer;
 }
